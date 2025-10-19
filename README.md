@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Images-ImageKit.io-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Auth-Clerk-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/Version-1.0.0-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" />
+  
 </p>
 
 ---
@@ -169,7 +169,7 @@ Contributions are welcome!
 1. Fork the repository
 2. Create a branch (git checkout -b feature/your-feature)
 3. Make your changes and commit (git commit -m "Add feature")
-4.Push to your branch (git push origin feature/your-feature)
-5.Open a Pull Request
+4. Push to your branch (git push origin feature/your-feature)
+5. Open a Pull Request
 
 <p align="center">💙 Developed by <b>Garv Rastogi</b></p> ```
